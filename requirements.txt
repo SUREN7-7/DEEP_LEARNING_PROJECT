@@ -1,0 +1,17 @@
+tensorflow
+pandas
+dvc #Used as MLOPs tool for tracking
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2   #
+pyYaml  #To read yaml files(Yet Another Markup Language)
+tqdm    #To print progress bar
+beartype
+joblib
+types-pyYaml
+scipy
+Flask   #To create web app
+Flask-Cors
+-e .

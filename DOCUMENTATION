@@ -1,7 +1,0 @@
-                                    END-TO-END DEEP LEARNING PROJECT    
-This is project classifies the type of chicken disease based on image classification.
----------------------------------------------------------------------------------------------------------------------
-Set up a virtual environment to install necessary packages used for this project.
-Clone this project to github thorugh the command "fir clone {github repo link}"
-Create the project template ie., the files so that unlike manual creation this helps to automate.
-The project uses modular coding.
